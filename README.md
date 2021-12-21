@@ -1,3 +1,3 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
-Deployed site - https://next-js-blog-krasnovihor.vercel.app/
+Deployed <a target='_blank' href='https://next-js-blog-krasnovihor.vercel.app/'>site</a>
